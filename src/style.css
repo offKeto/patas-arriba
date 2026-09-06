@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Nunito', sans-serif;
+
+  --color-brand-brown: #331e1c;
+  --color-brand-cream: #fffbf7;
+  --color-brand-pink: #d8857e;
+  --color-brand-pink-hover: #c9756f; 
+  --color-brand-lilac: #b593b8;
+}
