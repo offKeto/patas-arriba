@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import Header from '../components/Header.vue'
-import Footer from '../components/Footer.vue'
 
 import photo1 from '../assets/photo1.webp'
 import photo2 from '../assets/photo2.webp'
