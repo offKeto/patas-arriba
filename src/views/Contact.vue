@@ -65,7 +65,7 @@ const sendWhatsApp = () => {
               </a>
 
               <a 
-                href="https://instagram.com" 
+                href="https://www.instagram.com/patasarribagrooming/" 
                 target="_blank" 
                 class="flex items-center gap-4 text-brand-brown hover:text-brand-pink transition-colors group"
               >
